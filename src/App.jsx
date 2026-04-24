@@ -596,7 +596,7 @@ export default function App() {
           </div>
           <div className="flex flex-wrap items-center gap-5">
             <a
-              href="https://www.instagram.com/luminous._arts/"
+              href="https://www.instagram.com/luminous._covers/"
               className="transition hover:text-slate-900"
             >
               Instagram
